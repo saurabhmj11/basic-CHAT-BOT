@@ -1,0 +1,11 @@
+To execute the code provided in the previous steps for creating a chatbot with Python and machine learning in Jupyter Notebook, follow these steps:
+
+Open Jupyter Notebook: Launch Jupyter Notebook either from the command line or using an integrated development environment (IDE) like Anaconda Navigator. The Jupyter Notebook interface will open in your web browser.
+
+Create a new notebook: Click on the "New" button on the top right corner of the Jupyter Notebook interface and select "Python 3" to create a new Python notebook.
+
+Add new cells: Click on the "+" button in the toolbar or press the "B" key on your keyboard to add new cells below the current one. Add as many cells as needed to accommodate the code snippets.
+
+Write and execute the code step-by-step: Copy and paste each code snippet from the previous steps into separate cells in the Jupyter Notebook. Execute each cell by pressing "Shift + Enter" or by clicking the "Run" button in the toolbar.
+
+a. In the first cell, paste and execute the code for installing the required packages:
